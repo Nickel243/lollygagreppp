@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAjd-JZwW4Eq9zQVD-1yixCBuTvrpdunN0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1005080189757</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.lollygag</string>
+	<key>PROJECT_ID</key>
+	<string>lollygag-0kwkjo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lollygag-0kwkjo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1005080189757:ios:2b7362c468dff479ea8354</string>
+</dict>
+</plist>
